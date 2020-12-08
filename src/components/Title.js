@@ -4,7 +4,6 @@ const styles = {
     card: {
       margin: 20,
     },
-
     title: {
       background: "#4dd0e1",
       fontSize: "50px",

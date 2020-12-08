@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import EmployeeList from "../utils/EmployeeList";
 
 const Search = () => {
-//class activity 19.19 and 20
+//class activity week 19, numbers 19 and 20
     const context = useContext(EmployeeList);
 
     return (

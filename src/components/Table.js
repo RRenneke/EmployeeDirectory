@@ -2,8 +2,6 @@ import React, { useContext } from "react";
 import EmployeeData from "./EmployeeData";
 import EmployeeList from "../utils/EmployeeList";
 
-
-
 const Table = () => {
     const context = useContext(EmployeeList);
     return (
