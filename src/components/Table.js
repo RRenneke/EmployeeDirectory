@@ -13,7 +13,7 @@ const Table = () => {
                             <th
                                 key={name}
                                 style={{width}}
-                                onClick={() => {context.handleSort(name.toLowerCase());}}
+                                onClick={() => {context.employeeSort(name.toLowerCase());}}
                             >
                                 {name}
                     </th>
