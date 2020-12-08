@@ -1,7 +1,6 @@
 import React, { useContext } from "react";
 import EmployeeList from "../utils/EmployeeList"
 
-
 const EmployeeData = () => {
     const context = useContext(EmployeeList);
 

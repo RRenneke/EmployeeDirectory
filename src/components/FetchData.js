@@ -37,7 +37,6 @@ const FetchData = () => {
             })
         }
 
-    
         const employeeCompare = (a, b) => {
           if (developerState.order === "ascend") {
             if (a[heading] === undefined) {
